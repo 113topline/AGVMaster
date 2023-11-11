@@ -1,0 +1,20 @@
+Essa pasta é realacionada ao código presente no AGV. As portas utilizadas pelo ESP32 para controlar os drivers e sensores são:
+
+Driver DRV8825 - Lado Esquerdo
+DIR_L - 13
+STP_L - 14
+SLP_L - 27
+RST_L - 26
+
+Driver DRV8825 - Lado direito
+DIR_R - 19
+STP_R - 33
+SLP_R - 32
+RST_R - 23
+
+Sensor de cor TCS34725
+SDA - 21
+SCL - 22
+
+Alimentar os motores com 12VCC e o circuito (ESP32, TCS34725) com 5V.
+Esse código somente pode ser compilado através do PlatformIO, pela IDE VSCode.
