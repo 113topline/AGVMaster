@@ -2,7 +2,7 @@
 
 Parte do Trabalho de Conclusão de Curso em Automação Industrial - IFSul Câmpus Lajeado
 
-"Implementação de um algoritmo de posicionamento de AGV"
+**"Implementação de um algoritmo de posicionamento de AGV"**
 
 Esse repositório encontra todos arquivos utilizados para o sucesso do trabalho, que envolve:
 - Programação do protótipo de AGV com ESP32;
@@ -14,6 +14,5 @@ Melhorias e sugestões são bem apreciadas.
 
 Att,
 
-Samuel Steffler - Técnico em Automação Industrial\n
-
+Samuel Steffler - Técnico em Automação Industrial
 Tiago Steffler - Técnico em Automação Industrial
