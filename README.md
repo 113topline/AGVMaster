@@ -1,6 +1,7 @@
 # AGVMaster
 
 Parte do Trabalho de Conclusão de Curso em Automação Industrial - IFSul Câmpus Lajeado
+
 "Implementação de um algoritmo de posicionamento de AGV"
 
 Esse repositório encontra todos arquivos utilizados para o sucesso do trabalho, que envolve:
@@ -12,5 +13,7 @@ Busca-se adicionar mais arquivos referentes a esquemáticos de ligações e mode
 Melhorias e sugestões são bem apreciadas.
 
 Att,
-Samuel Steffler - Técnico em Automação Industrial
+
+Samuel Steffler - Técnico em Automação Industrial\n
+
 Tiago Steffler - Técnico em Automação Industrial
